@@ -12,7 +12,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.example</groupId>
+    <groupId>com.order</groupId>
     <artifactId>order-service</artifactId>
     <version>1.0.0</version>
     <name>Order Service - Resilient Microservice</name>
